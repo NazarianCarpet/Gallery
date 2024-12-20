@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters copyright="anvsoftPFMTheme">
+    <preferences>
+        <global>
+            <basic_property movieWidth="800" movieHeight="600" html_title="ﾍﾟﾙｼｬ絨毯産地" loadStyle="Pie" startAutoPlay="true" continuum="true" backgroundColor="0x000000" hideAdobeMenu="true" anvsoftMenu="false" photoDynamicShow="true" enableURL="true" transitionArray="29,66" frameColor="0xc0c0c0" clickToAutoPlay="false" randomPlayingPhotos="true" frameRate="30"/>
+            <title_property showTitle="true" photoTitleColor="0xffffa0"/>
+            <music_property path="" stream="true" loop="true" enableVolumeDrag="true" defaultVolume="70" musicButtonColor="0xffffff"/>
+            <photo_property topPadding="0" bottomPadding="29" leftPadding="0" rightPadding="0"/>
+            <properties enable="true" backgroundColor="0xffffff" backgroundAlpha="30" cssText="a:link{text-decoration: underline;} a:hover{color:#ff0000; text-decoration: none;} a:active{color:#0000ff;text-decoration: none;} .blue {color:#0000ff; font-size:15px; font-style:italic; text-decoration: underline;} .body{color:#ff5500;font-size:20px;}" align="top"/>
+        </global>
+        <thumbnail>
+            <basic_property autoHide="false" width="80" height="60" alpha="70" borderColor=""/>
+        </thumbnail>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="" title="Qum クム　シルク" width="800" height="571"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="" title="Kashan　カシャン シルク" width="800" height="571"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="" title="Kashan　カシャン シルク" width="800" height="571"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="" title="Isfehan イスファハン　ウール" width="800" height="571"/>
+        <slide jpegURL="thumbs/t_0005.jpg" d_URL="slides/p_0005.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="" title="Isfehan イスファハン　ウール" width="800" height="571"/>
+        <slide jpegURL="thumbs/t_0006.jpg" d_URL="slides/p_0006.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="" title="Naein ナイン　ウール" width="800" height="571"/>
+        <slide jpegURL="thumbs/t_0007.jpg" d_URL="slides/p_0007.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="" title="Qum クム　シルク" width="800" height="571"/>
+        <slide jpegURL="thumbs/t_0008.jpg" d_URL="slides/p_0008.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="" title="Qum クム　シルク" width="800" height="571"/>
+        <slide jpegURL="thumbs/t_0009.jpg" d_URL="slides/p_0009.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="" title="Tabriz　タブリーズ　ウール" width="800" height="571"/>
+        <slide jpegURL="thumbs/t_0010.jpg" d_URL="slides/p_0010.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="" title="Tabriz　タブリーズ　ウール" width="800" height="571"/>
+        <slide jpegURL="thumbs/t_0011.jpg" d_URL="slides/p_0011.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="" title="Tabriz　タブリーズ　ウール" width="800" height="571"/>
+    </album>
+</flash_parameters>
